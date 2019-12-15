@@ -1,0 +1,17 @@
+S-DES is a reduced version of the DES algorithm. It has similar properties to DES but deals with a much smaller block and key size (operates on 8-bit message blocks with a 10-bit key). It has 2 rounds. The 10-bit key is used to generate 2 different blocks of 8-bit subkeys where each block is used in a particular iteration. For your reference, you can take help from the given link  https://eprint.iacr.org/2002/045.pdf.
+
+Objective: You need to perform differential cryptanalysis on Simplified S-Box. Your goal is to extract the main key, round1 subkey, and round2 subkey.
+Submission:  You need to submit  Encryption code, Decryption code differential cryptanalysis crack code along with the necessary auxiliary files and finally in the form of a single Zip file. Your crack code should print main key, round1 subkey and round2 subkey.
+
+Note: Your encryption code should prompt for entering the key. Plaintext should be taken from a file.
+
+
+
+
+#TODOS
+	[x] segregate Dec and ecr
+	[x] read the paper
+	[x] youtube for diferential cryptanalysis
+	[] maybe convert to python
+
+	

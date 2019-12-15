@@ -1,0 +1,1 @@
+Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers anK
