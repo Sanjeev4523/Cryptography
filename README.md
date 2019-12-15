@@ -1,5 +1,4 @@
-# Cryptography
-Cryptography Course 
+# Cryptography Course
 
 This is my study material for the Cryptography Course i did at my college .
 
